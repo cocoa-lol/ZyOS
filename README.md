@@ -10,6 +10,11 @@ Salt + Hash password protection,
 Simplicity,
 Customizable to the user
 
+## Base File Tree
+ZyOS
+
+  sys
+
 ## License
 This project is licensed under a custom license.
 
