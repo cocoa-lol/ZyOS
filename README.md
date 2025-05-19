@@ -22,6 +22,9 @@ ZyOS
   
   user/
 
+## Instructions
+To start the OS, run the file **run.py**. If this is the first time running it, you will be directed to the setup.
+
 ## License
 This project is licensed under a custom license.
 
