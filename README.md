@@ -5,8 +5,8 @@ An OS in your terminal, made completely in Python.
 ZyOS is made to be completely customizable to the user. The code is beginner - intermediate level, where it is easy to customize. You can add any application you would like, without any restrictions!
 
 ## Built-in Features
-Salt + Hash password protection
-Simplicity
+Salt + Hash password protection,
+Simplicity,
 Customizable to the user
 
 ## License
