@@ -17,12 +17,9 @@ ZyOS
   
   sys/
     
-    
     calculator.py,
     
-    
     create_user.py,
-    
     
     password_utils.py
   
