@@ -1,5 +1,6 @@
 # ZyOS
 An OS in your terminal, made completely in Python.
+"The terminal is yours."
 
 ## Purpose
 ZyOS is made to be completely customizable to the user. The code is beginner - intermediate level, where it is easy to customize. You can add any application you would like, without any restrictions!
