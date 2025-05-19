@@ -12,7 +12,7 @@ Customizable to the user
 
 ## Base File Tree
 ZyOS
-  setup.py
+  setup.py,
   run.py
   
   sys/
