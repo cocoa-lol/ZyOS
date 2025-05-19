@@ -12,16 +12,15 @@ Customizable to the user
 
 ## Base File Tree
 ZyOS
-
+  setup.py
+  run.py
+  
   sys/
-    calculator.py
-    create_user.py
+    calculator.py,
+    create_user.py,
     password_utils.py
   
   user/
-  
-  setup.py
-  run.py
 
 ## License
 This project is licensed under a custom license.
