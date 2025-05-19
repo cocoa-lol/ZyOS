@@ -22,7 +22,6 @@ ZyOS
     create_user.py,
     
     password_utils.py
-  
   user/
 
 ## Instructions
