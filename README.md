@@ -40,7 +40,7 @@ To run ZyOS:
 python run.py
 ```
 
-## ⚖ Licnese
+## ⚖ License
 
 This project is licensed under a custom license.
 
