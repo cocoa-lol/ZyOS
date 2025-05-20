@@ -38,6 +38,7 @@ To run ZyOS:
 
 ```bash
 python run.py
+```
 
 ## ⚖ Licnese
 
