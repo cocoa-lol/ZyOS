@@ -22,13 +22,13 @@ ZyOS is built to be **simple and fully customizable**. It uses beginner–interm
 ## 📁 Base File Tree
 
 _ZyOS/_  return
-  _run.py_,  return
-  setup.py_,  return
-  _sys/_  return
-    _calculator.py,_  return
-    _create_user.py,_  return
-    _password_utils.py_  return
-  _user/_  return
+  _run.py_,\
+  setup.py_,\
+  _sys/_\
+    _calculator.py,_\
+    _create_user.py,_\
+    _password_utils.py_\
+  _user/_\
 
 ---
 
