@@ -15,8 +15,9 @@ ZyOS is built to be **simple and fully customizable**. It uses beginner–interm
 
 - 🧂 Salt + Hash password protection  
 - 🎯 Simple and intuitive layout  
-- ⚙️ Easily customizable structure  
-
+- ⚙️ Easily customizable structure
+- 👤 Easy user selection and sign-in
+ 
 ---
 
 ## 📁 Base File Tree
