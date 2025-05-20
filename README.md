@@ -1,5 +1,7 @@
 # 🖥 ZyOS
 
+---
+
 ## 💬 Description
 **An OS in your terminal, made completely in Python.**  
 _“The terminal is yours.”_
