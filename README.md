@@ -22,15 +22,15 @@ ZyOS is built to be **simple and fully customizable**. It uses beginner–interm
 ## 📁 Base File Tree
 
 ZyOS/ \
-  run.py\
-  setup.py\
-  sys/ \
-    ---- \
-    calculator.py\
-    create_user.py\
-    password_utils.py\
-    ---- \
-  user/
+&nbsp;&nbsp;&nbsp;&nbsp;run.py\
+&nbsp;&nbsp;&nbsp;&nbsp;setup.py\
+&nbsp;&nbsp;&nbsp;&nbsp;sys/ \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---- \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calculator.py\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;create_user.py\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password_utils.py\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---- \
+&nbsp;&nbsp;&nbsp;&nbsp;user/
 
 ---
 
