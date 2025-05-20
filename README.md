@@ -21,7 +21,7 @@ ZyOS is built to be **simple and fully customizable**. It uses beginner–interm
 
 ## 📁 Base File Tree
 
-ZyOS/_ 
+_ZyOS/_ 
   _run.py_,
   setup.py_,
   _sys/_
